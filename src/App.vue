@@ -1,5 +1,13 @@
 <template>
-  <div>hello</div>
+  <main>
+    <!-- heading -->
+    <header>
+      <img src="./assets/pinia-logo.svg" alt="pinia logo" />
+      <h1>Pinia Tasks</h1>
+    </header>
+  </main>
 </template>
 
-<style scoped></style>
+<script>
+export default {};
+</script>
