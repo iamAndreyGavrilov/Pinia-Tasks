@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "db": "json-server -w ./data/db.json"
   },
   "dependencies": {
     "pinia": "^2.0.23",
